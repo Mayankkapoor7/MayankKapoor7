@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-I am an AI Software Engineer focused on building production-grade, secure, and observable artificial intelligence systems. My core expertise lies at the intersection of **Large Language Models, LangGraph orchestration, multi-agent workflows, and high-performance Retrieval-Augmented Generation (RAG)**. I bridge the gap between experimental AI prototypes and robust, reliable cloud-deployed software architectures.
+I am an aspiring AI Engineer focused on building production-grade, secure, and observable artificial intelligence systems. My core expertise lies at the intersection of **Large Language Models, LangGraph orchestration, multi-agent workflows, and high-performance Retrieval-Augmented Generation (RAG)**. I bridge the gap between experimental AI prototypes and robust, reliable cloud-deployed software architectures.
 
 ---
 
