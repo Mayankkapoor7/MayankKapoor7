@@ -6,7 +6,7 @@
 *Specializing in Agentic AI Systems, Advanced RAG Pipelines, and LLM Infrastructure*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Mayankkapoor7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapoor-mayank-gehu)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate AI Software Engineer focused on building production-grade, secure, and observable artificial intelligence systems. My core expertise lies at the intersection of **Large Language Models, LangGraph orchestration, multi-agent workflows, and high-performance Retrieval-Augmented Generation (RAG)**. I bridge the gap between experimental AI prototypes and robust, reliable cloud-deployed software architectures.
+I am an AI Software Engineer focused on building production-grade, secure, and observable artificial intelligence systems. My core expertise lies at the intersection of **Large Language Models, LangGraph orchestration, multi-agent workflows, and high-performance Retrieval-Augmented Generation (RAG)**. I bridge the gap between experimental AI prototypes and robust, reliable cloud-deployed software architectures.
 
 ---
 
@@ -38,8 +38,7 @@ I am a passionate AI Software Engineer focused on building production-grade, sec
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankkapoor7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Mayank's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankkapoor7&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayankkapoor7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mayank's GitHub Stats" />
 </div>
 
 ---
