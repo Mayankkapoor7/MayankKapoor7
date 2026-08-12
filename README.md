@@ -7,7 +7,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Mayankkapoor7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapoor-mayank-gehu)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-mayankkapoor841@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkapoor841@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%207906773761-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917906773761)
 
 </div>
 
@@ -35,11 +36,10 @@ I am an AI Software Engineer focused on building production-grade, secure, and o
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankkapoor7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mayank's GitHub Stats" />
-</div>
+### 📈 Professional Focus & Scope
+* **Specialization:** Production Agentic Workflows & Secure LLM Microservices
+* **Core Tooling:** LangGraph, FastAPI, Qdrant, Docker, AWS Fargate
+* **Status:** Open to opportunities in Advanced AI Engineering & Architecture
 
 ---
 
